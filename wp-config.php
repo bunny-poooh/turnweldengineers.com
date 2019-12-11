@@ -26,7 +26,7 @@ define( 'DB_NAME', 'u395025619_turnweldengine' );
 define( 'DB_USER', 'u395025619_turnweldengine' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'u395025619_turnweldengineers' );
+define( 'DB_PASSWORD', 'u395025619_turnweldengine' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
